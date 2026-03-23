@@ -2,7 +2,7 @@
 
 ```javascript
 const owlstronaut = {
-  name: "Michael Smith",
+  name: "jahid ",
   employer: "GitHub",
   previousEmployers: ["Microsoft", "Cornerstone Systems NW"],
   education: {
